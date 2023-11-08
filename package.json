@@ -2,7 +2,7 @@
   "name": "concentration",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://stixbunny.github.io/concentration",
+  "homepage": "https://stixbunny.github.io/concentration-portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
